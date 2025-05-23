@@ -53,7 +53,7 @@
 ---
 
 ## 🐍 My Contributions
- <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino gif" />
+ <img src="workflows/dino.gif" alt="Dino gif" />
  
 ###
 
