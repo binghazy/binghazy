@@ -5,9 +5,9 @@
 </p>
 <h3 align="center">Frontend Developer | Junior AI Engineer | Tech Enthusiast</h3>
 <h4 align="center">
-  <strong>Name:</strong> Ahmed Ghazy &nbsp;&nbsp;
-  <strong>From:</strong> <img src="https://media1.tenor.com/m/F18Rn-uObA0AAAAC/egypt-flag-gif.gif" alt="Egypt Flag" width="20" />
-</h4>
+    <strong>Name:</strong> Ahmed Ghazy
+      <strong>From:</strong> <img src="https://media1.tenor.com/m/F18Rn-uObA0AAAAC/egypt-flag-gif.gif" alt="Egypt Flag" width="20" />
+    </h4>
 
 ---
 
@@ -15,40 +15,40 @@
 
 🎓 Junior AI Engineer & Frontend Developer  
 🏫 Studying at New Mansoura University (Mechatronics)  
-🌟 CGPA: Very Good  
-💼 Passionate about crafting clean UI/UX, building real-time web apps, and diving deep into AI  
+🌟 CGPA: Very Good 
+💼 Passionate about crafting clean UI/UX, building real-time web apps, and diving deep into AI
 
 🧠 Currently exploring:  
 - Modern Frontend (React ⚛️, TailwindCSS 💨, Next.js)  
 - Real-time Apps (Socket.IO, Chat apps)  
 - AI APIs (OpenAI, LangChain, Deep Learning)  
-- Image Super-resolution (Real-ESRGAN, Wave Diffusion)  
+- Image Super-resolution (Real-ESRGAN, Wave Diffusion)
 
-🚀 Projects I'm proud of:  
-- [ElgayarFit - Fitness Web App](https://github.com/binghazy/ElgayarFit-Fitness-Web-Application)  
-- [SAMER - AI Text Generator](https://github.com/binghazy/SAMER)  
-- [AI Chat UI](https://github.com/binghazy/Aichat-OpenAI-Frontend)  
+🚀 Projects I'm proud of:
+- [ElgayarFit - Fitness Web App](https://github.com/binghazy/ElgayarFit-Fitness-Web-Application)
+- [SAMER - AI Text Generator](https://github.com/binghazy/SAMER)
+- [AI Chat UI](https://github.com/binghazy/Aichat-OpenAI-Frontend)
 
 ---
 
 ## ⚒️ Tech Stack
 
 **Languages**  
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)  
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Frameworks / Libraries**  
-![React](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)  
+![React](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
 
 **Tools & Platforms**  
-![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -59,6 +59,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/binghazy/binghazy/output/pacman-contribution-graph.svg">
 </picture>
 
+###
 ---
 
 ## ⚡ GitHub Stats
