@@ -13,8 +13,8 @@
 
 ## 👨‍💻 About Me
 
-🎓 Junior AI Engineer & Frontend Developer  
-🏫 Studying at New Mansoura University (Mechatronics)  
+🎓 Junior AI Engineer & Frontend Developer 
+🏫 Studying at New Mansoura University   
 🌟 CGPA: Very Good <br>
 💼 Passionate about crafting clean UI/UX, building real-time web apps, and diving deep into AI
 
