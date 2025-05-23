@@ -5,7 +5,7 @@
 </p>
 <h3 align="center">Frontend Developer | Junior AI Engineer | Tech Enthusiast</h3>
 <h4 align="center">
-    <strong>Name:</strong> Ahmed Ghazy
+    <strong>Ahmed Ghazy</strong> 
       <strong>From:</strong> <img src="https://media1.tenor.com/m/F18Rn-uObA0AAAAC/egypt-flag-gif.gif" alt="Egypt Flag" width="20" />
     </h4>
 
